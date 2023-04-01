@@ -6,12 +6,12 @@ export default function ImageViewer({ placeholderImageSource }) {
 }
 const styles = StyleSheet.create({  
   image: {
-    // container: {
-      // paddingtop: 50,
-    // },
     width: 200,
     height: 200,
     borderRadius: 1,
+    // container: {
+      // paddingtop: 50,
   },
+  
  
 });
